@@ -3,7 +3,6 @@ export default function Home() {
   return (
     <Layout>
       <h1>Welcom To Eldewiny Apps</h1>
-      <p>body content coming soon</p>
     </Layout>
   )
 }
